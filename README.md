@@ -1,18 +1,30 @@
 # bug-reports
-Proyecto de documentación estructurada de reportes de errores como parte de mi portafolio QA Junior.
+Structured bug reporting documentation project created as part of my Junior QA portfolio.
 
-Reportes de errores simulados o reales, con capturas/videos.
+## Project Description
+This repository contains bug reports based on practical testing scenarios completed during my QA learning process.
 
-Contiene bugs documentados de páginas web simuladas.Capturas y videos incluidos.Herramientas: Aprendizaje:Organizaciòn de reportes y documentaciòn profesional.
+The reports are structured to clearly document the observed behavior, steps to reproduce the issues, expected and actual results, impact, and priority of each issue.
 
-Habilidades demostradas:
+## Contents
+- Bug reports documented using a consistent structure
+- Simulated testing scenarios
+- Reusable template for future bug reports
+- Evidence through screenshots or recording when available
 
--Redacciòn estructurada de defectos
+## Tools
+- Jira
+- GitHub
+- Notion
 
--Identificaciòn clara de pasos para reproducir errores
+## Skills Demonstrated
+- Structured defect reporting
+- Clear identification of steps to reproduce issues
+- Comparison of expected and actual results
+- Basic severity and priority classification
+- Documentation and organization of testing evidence
+- Technical communication
+- Use of a reusable structure for documenting issues
 
--Documentaciòn con evidencia(capturas/videos)
-
--Priorizaciòn básica de incidencias
-
--Comunicaciòn orientada a equipo técnico
+## Learning Objective
+The objective of this repository is to demonstrate a practical foundation in bug documentation and organization of testing information as part of my preparation for Junior QA opportunities.
