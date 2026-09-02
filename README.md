@@ -10,7 +10,7 @@ The reports are structured to clearly document the observed behavior, steps to r
 - Bug reports documented using a consistent structure
 - Simulated testing scenarios
 - Reusable template for future bug reports
-- Evidence through screenshots or recording when available
+- Evidence through screenshots or recordings when available
 
 ## Tools
 - Jira
