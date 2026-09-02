@@ -1,11 +1,11 @@
 ## Title
-Course language cannot be changed although lessons remain available.
+Course language cannot be changed although lessons remain available
 
 ## Environment
 Android / iOS mobile application.
 
 ## Description
-The application allow the user to continue taking lessons in the current course, but does not allow the user to change the course language.
+The application allows the user to continue taking lessons in the current course, but does not allow the user to change the course language.
 
 ## Steps to Reproduce
 1. Open the mobile application.
@@ -26,13 +26,13 @@ Medium
 Medium
 
 ## Impact
-The issue limits a key part of the applications navigation and prevents users from changing their selected course language.
+The issue limits a key part of the application's navigation and prevents users from changing their selected course language.
 
-## Possible areas for investigation
-- Synchronization issues.
-- An undocumented restriction.
-- Profile management.
-- Local caché.
+## Possible Areas for Investigation
+- Synchronization issues
+- An undocumented restriction
+- Profile management
+- Local cache
 
 ## Evidence
 Not available.
