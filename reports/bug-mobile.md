@@ -22,7 +22,7 @@ Android / iOS mobile application.
 ## Impact
 ...
 
-## Possible areas for investigation.
+## Possible areas for investigation
 ...
 
 ## Evidence
