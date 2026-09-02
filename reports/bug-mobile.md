@@ -2,7 +2,7 @@
 Course language cannot be changed although lessons remain available
 
 ## Environment
-Android / iOS mobile application.
+Android / iOS mobile application
 
 ## Description
 The application allows the user to continue taking lessons in the current course, but does not allow the user to change the course language.
