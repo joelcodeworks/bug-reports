@@ -17,7 +17,7 @@ The application allows the user to continue taking lessons in the current course
 The application should allow the user to change the course language and load the selected course correctly.
 
 ## Actual Result
-The application does not allow the user to change the course language, although lesson in the current language remain available.
+The application does not allow the user to change the course language, although lessons in the current language remain available.
 
 ## Severity
 Medium
